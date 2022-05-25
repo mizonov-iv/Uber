@@ -1,4 +1,4 @@
 # Uber
 First HTML and CSS project
 
-https://mizonov-iv.github.io/Uber/
+[Demo](https://mizonov-iv.github.io/Uber/)
